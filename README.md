@@ -57,3 +57,31 @@ Once Developer Mode is enabled, follow these steps to turn on USB Debugging:
 
 ---
 
+### How to Use MOAT (Microsoft Office Activation Tool)
+
+MOAT is designed to simplify the process of activating Microsoft Office via telephone. Here’s a simple guide to get you started:
+
+#### Step 1: Start the Tool
+- **Launch MOAT** by double-clicking the application (from a USB stick if needed).
+- On the welcome screen, click the **"Start"** button to begin the activation process.
+
+#### Step 2: Follow the On-Screen Prompts
+MOAT will guide you through the different stages of the activation call. Here’s what to expect:
+
+1. **Call Microsoft**: MOAT will automatically dial the Microsoft activation center and put your phone on speaker.
+2. **Decline Recording**: The system will ask if you want the call recorded. MOAT will automatically decline this for you.
+3. **Manual Code Entry**: When prompted to enter a 3-digit code, pay attention to the instructions on your phone. **Enter the code manually** when MOAT asks you to.
+4. **Confirm Options**: MOAT will automatically select the right options (e.g., confirming that the Activation Wizard is open).
+
+#### Step 3: Receive the SMS
+- Once you confirm the Activation Wizard, Microsoft will send you an SMS.
+- **After receiving the SMS**, you can end the call early by pressing the **"End Call"** button or let MOAT handle it automatically.
+
+#### Step 4: Complete the Process
+Once the call ends, MOAT will show a message confirming that the SMS should have been received. You will then have the option to:
+- **Start Over** if needed.
+- Open the SMS link on your phone (if configured).
+
+---
+
+That’s it! MOAT handles most of the activation process for you. Just follow the prompts and you’ll have Office activated in no time.
