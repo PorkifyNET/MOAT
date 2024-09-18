@@ -19,6 +19,9 @@ To automate the Microsoft Office activation process with MOAT, you'll need to en
 #### Step 1: Enable Developer Mode on Your Phone
 To access the **USB Debugging** option, you'll first need to enable **Developer Mode** on your phone.
 
+> [!CAUTION]
+> Incorrect use of the USB debugging feature, or the incorrect use of the Developer Mode, can cause security risks or potential damage to your phone. Make sure to disable Developer Mode once you are finished using MOAT.
+
 1. **Open the Settings app** on your phone.
 2. **Scroll down and select "About phone"** (or "About device").
 3. **Find "Build Number"** (it might be under "Software Information").
