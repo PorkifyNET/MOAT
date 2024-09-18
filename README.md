@@ -9,7 +9,10 @@ This tool normally is not useful for the average consumer, and tends to be more 
 ## How to use MOAT
 
 ### Requirements
-- An Android Phone with USB debugging enabled
+- The computer you want to activate Office on.
+- An Android Phone with:
+   - USB debugging enabled
+   - An activated SIM card
 - A USB cable to plug said phone into your computer
 
 ### How to Prepare Your Phone for Use with MOAT
