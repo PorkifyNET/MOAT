@@ -43,15 +43,6 @@ Once Developer Mode is enabled, follow these steps to turn on USB Debugging:
 2. A prompt will appear on your phone asking, "**Allow USB Debugging?**"
 3. Check the box for **"Always allow from this computer"** and press **OK** to confirm.
 
-#### Step 4: Verify ADB Connection
-To check if your device is properly connected and detected by ADB:
-
-1. Open **Command Prompt** (Windows) or **Terminal** (Mac/Linux) on your computer.
-2. Type the following command and press **Enter**:
-   ```
-   adb devices
-   ```
-3. Your device should appear in the list of connected devices with a **device ID**. If you see this, your phone is successfully set up.
 
 #### Troubleshooting
 - **No Device Detected**: If your device doesn't show up, ensure that:
@@ -63,10 +54,3 @@ To check if your device is properly connected and detected by ADB:
 
 ---
 
-#### Recap
-1. Enable **Developer Mode** on your phone.
-2. Turn on **USB Debugging** under Developer Options.
-3. Connect your phone to your computer and allow USB Debugging.
-4. Verify the connection with **ADB**.
-
-Your phone is now ready to be used with MOAT for automating the Microsoft Office activation process!
